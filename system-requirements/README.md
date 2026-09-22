@@ -87,3 +87,13 @@ We tested this skill file using the class evaluation tool to make sure it is com
   | Constraint Rules| [PENDING LOCAL RUN] |
 
 *Note: You can see the full, detailed printout text from the grading terminal inside the folder at `./quality_analysis/gemini_score.txt`.*
+
+## Contributors
+  1.Adeline Mugisha
+  2.Nicole Katia
+  3.Mary Macharia
+  4.Divine Irasubiza Igihozo
+  5.Faith Nasimiyu Wekesa
+  6.Maria Nyanungo
+  7.Uwayo Anualithe
+  8.Fatma Mohamed Omar
